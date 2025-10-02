@@ -1,2 +1,2 @@
 print("kshitij")
-print("1 javir")
+print("2 javir")
